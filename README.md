@@ -1,0 +1,2 @@
+# Gitclone
+Testfor git clone
